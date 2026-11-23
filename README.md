@@ -1,5 +1,5 @@
 # CodeAlpha_C-Programming
-# Basic Calculator Using Switch Statement in C
+# Basic Calculator Using Switch Statement in C 
 
 ## 📌 Project Overview
 
